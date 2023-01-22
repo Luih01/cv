@@ -109,7 +109,7 @@ a {color: white;
 #cat {
       float: right;
       margin-left: 20px;
-      padding-right: 20x;
+      padding: auto 20x auto auto;
       }
 
 #coding {
